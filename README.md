@@ -2,5 +2,5 @@ The program generates a story and two audios (normal, faster) per difficulty lev
 
 The program automatically chooses available device (cpu, gpu, mps).
 
-To run the program, you need install all dependencies first, then run Ollam locally, followed by the command:
+To run the program, you need install all dependencies first, then run Ollama locally, followed by the command:
 `python apps/story_generator.py`
