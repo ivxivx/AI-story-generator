@@ -4,3 +4,5 @@ The program automatically chooses available device (cpu, gpu, mps).
 
 To run the program, you need install all dependencies first, then run Ollama locally, followed by the command:
 `python apps/story_generator.py`
+
+There is an example under the directory `example/sky` which contains generated story text and audio for the keyword `sky`.
